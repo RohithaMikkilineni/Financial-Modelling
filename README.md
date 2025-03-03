@@ -1,0 +1,1 @@
+Created financial forecasting models in Excel, including balance sheet, income statement, and cash flow, to forecast investments and balances based on real-time assumptions for accurate financial planning 
